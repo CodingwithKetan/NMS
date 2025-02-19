@@ -19,4 +19,9 @@
       <ProjectReference Include="..\Service.Impl\Service.Impl.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="Mapping\" />
+      <Folder Include="Middleware\" />
+    </ItemGroup>
+
 </Project>

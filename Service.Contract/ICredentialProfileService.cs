@@ -4,10 +4,9 @@ namespace Service.Contract;
 
 public interface ICredentialProfileService
 {
-    Task<IEnumerable<CredentialProfile>> GetAllAsync();
-    Task<CredentialProfile?> GetByIdAsync(int id);
-    Task<CredentialProfile?> GetByNameAsync(string name);
-    Task AddAsync(CredentialProfile profile);
-    Task UpdateAsync(CredentialProfile profile);
-    Task DeleteAsync(int id);
+    Task<List<CredentialDto>> GetAllCredentialsAsync();
+    Task<CredentialDto> GetCredentialByIdAsync(int id);
+    Task<CredentialDto> AddCredentialAsync(CredentialDto dto);
+    Task<CredentialDto> UpdateCredentialAsync(int id, CredentialDto dto);
+    Task<bool> DeleteCredentialAsync(int id);
 }

@@ -1,0 +1,28 @@
+2025-02-14 12:12:02.034 +05:30 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2025-02-14 12:12:02.152 +05:30 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-02-14 12:12:02.156 +05:30 [DBG] Hosting starting
+2025-02-14 12:12:02.176 +05:30 [DBG] Middleware configuration started with options: {AllowedHosts = *, AllowEmptyHosts = True, IncludeFailureMessage = True}
+2025-02-14 12:12:02.177 +05:30 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2025-02-14 12:12:02.190 +05:30 [INF] Now listening on: http://localhost:5264
+2025-02-14 12:12:02.190 +05:30 [DBG] Loaded hosting startup assembly LiteNMS.API
+2025-02-14 12:12:02.190 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-14 12:12:02.190 +05:30 [INF] Hosting environment: Development
+2025-02-14 12:12:02.190 +05:30 [INF] Content root path: /home/ketan/Desktop/Training_LiteNMS/LiteNMS/LiteNMS.API
+2025-02-14 12:12:02.191 +05:30 [DBG] Hosting started
+2025-02-14 12:13:13.782 +05:30 [INF] Application is shutting down...
+2025-02-14 12:13:13.787 +05:30 [DBG] Hosting stopping
+2025-02-14 12:13:13.819 +05:30 [DBG] Hosting stopped
+2025-02-14 12:42:45.697 +05:30 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2025-02-14 12:42:45.813 +05:30 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-02-14 12:42:45.816 +05:30 [DBG] Hosting starting
+2025-02-14 12:42:45.839 +05:30 [DBG] Middleware configuration started with options: {AllowedHosts = *, AllowEmptyHosts = True, IncludeFailureMessage = True}
+2025-02-14 12:42:45.840 +05:30 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2025-02-14 12:42:45.855 +05:30 [INF] Now listening on: http://localhost:5264
+2025-02-14 12:42:45.856 +05:30 [DBG] Loaded hosting startup assembly LiteNMS.API
+2025-02-14 12:42:45.856 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-14 12:42:45.857 +05:30 [INF] Hosting environment: Development
+2025-02-14 12:42:45.857 +05:30 [INF] Content root path: /home/ketan/Desktop/Training_LiteNMS/LiteNMS/LiteNMS.API
+2025-02-14 12:42:45.857 +05:30 [DBG] Hosting started
+2025-02-14 12:43:19.942 +05:30 [INF] Application is shutting down...
+2025-02-14 12:43:19.944 +05:30 [DBG] Hosting stopping
+2025-02-14 12:43:19.959 +05:30 [DBG] Hosting stopped

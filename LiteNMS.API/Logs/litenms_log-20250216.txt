@@ -1,0 +1,56 @@
+2025-02-16 13:04:08.279 +05:30 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2025-02-16 13:04:08.440 +05:30 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-02-16 13:04:08.445 +05:30 [DBG] Hosting starting
+2025-02-16 13:04:08.458 +05:30 [INF] User profile is available. Using '/home/ketan/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest.
+2025-02-16 13:04:08.477 +05:30 [DBG] Reading data from file '/home/ketan/.aspnet/DataProtection-Keys/key-31a18dc3-8260-4ede-9ee1-8385f327a606.xml'.
+2025-02-16 13:04:08.489 +05:30 [DBG] Found key {31a18dc3-8260-4ede-9ee1-8385f327a606}.
+2025-02-16 13:04:08.507 +05:30 [DBG] Considering key {31a18dc3-8260-4ede-9ee1-8385f327a606} with expiration date 2025-05-07 11:29:44Z as default key.
+2025-02-16 13:04:08.515 +05:30 [DBG] Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=9.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2025-02-16 13:04:08.520 +05:30 [DBG] Using managed symmetric algorithm 'System.Security.Cryptography.Aes'.
+2025-02-16 13:04:08.521 +05:30 [DBG] Using managed keyed hash algorithm 'System.Security.Cryptography.HMACSHA256'.
+2025-02-16 13:04:08.528 +05:30 [DBG] Using key {31a18dc3-8260-4ede-9ee1-8385f327a606} as the default key.
+2025-02-16 13:04:08.529 +05:30 [DBG] Key ring with default key {31a18dc3-8260-4ede-9ee1-8385f327a606} was loaded during application startup.
+2025-02-16 13:04:08.554 +05:30 [DBG] Middleware configuration started with options: {AllowedHosts = *, AllowEmptyHosts = True, IncludeFailureMessage = True}
+2025-02-16 13:04:08.555 +05:30 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2025-02-16 13:04:08.578 +05:30 [INF] Now listening on: http://localhost:5264
+2025-02-16 13:04:08.579 +05:30 [DBG] Loaded hosting startup assembly LiteNMS.API
+2025-02-16 13:04:08.579 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-16 13:04:08.579 +05:30 [INF] Hosting environment: Development
+2025-02-16 13:04:08.579 +05:30 [INF] Content root path: /home/ketan/Desktop/Training_LiteNMS/LiteNMS/LiteNMS.API
+2025-02-16 13:04:08.579 +05:30 [DBG] Hosting started
+2025-02-16 13:07:06.318 +05:30 [INF] Application is shutting down...
+2025-02-16 13:07:06.319 +05:30 [DBG] Hosting stopping
+2025-02-16 13:07:06.334 +05:30 [DBG] Hosting stopped
+2025-02-16 13:08:52.923 +05:30 [DBG] Registered model binder providers, in the following order: ["Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider","Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider"]
+2025-02-16 13:08:53.005 +05:30 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2025-02-16 13:08:53.009 +05:30 [DBG] Hosting starting
+2025-02-16 13:08:53.037 +05:30 [DBG] Middleware configuration started with options: {AllowedHosts = *, AllowEmptyHosts = True, IncludeFailureMessage = True}
+2025-02-16 13:08:53.038 +05:30 [DBG] Wildcard detected, all requests with hosts will be allowed.
+2025-02-16 13:08:53.082 +05:30 [INF] Now listening on: http://localhost:5264
+2025-02-16 13:08:53.082 +05:30 [DBG] Loaded hosting startup assembly LiteNMS.API
+2025-02-16 13:08:53.083 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-16 13:08:53.084 +05:30 [INF] Hosting environment: Development
+2025-02-16 13:08:53.084 +05:30 [INF] Content root path: /home/ketan/Desktop/Training_LiteNMS/LiteNMS/LiteNMS.API
+2025-02-16 13:08:53.084 +05:30 [DBG] Hosting started
+2025-02-16 13:12:01.193 +05:30 [DBG] Connection id "0HNAEBLJ4VSTK" accepted.
+2025-02-16 13:12:01.194 +05:30 [DBG] Connection id "0HNAEBLJ4VSTK" started.
+2025-02-16 13:12:01.195 +05:30 [DBG] Connection id "0HNAEBLJ4VSTL" accepted.
+2025-02-16 13:12:01.195 +05:30 [DBG] Connection id "0HNAEBLJ4VSTL" started.
+2025-02-16 13:12:01.232 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5264/ - null null
+2025-02-16 13:12:01.246 +05:30 [DBG] No candidates found for the request path '/'
+2025-02-16 13:12:01.247 +05:30 [DBG] Request did not match any endpoints
+2025-02-16 13:12:01.255 +05:30 [WRN] Failed to determine the https port for redirect.
+2025-02-16 13:12:01.260 +05:30 [WRN] Failed to determine the https port for redirect.
+2025-02-16 13:12:01.263 +05:30 [INF] HTTP GET / responded 404 in 3.2919 ms
+2025-02-16 13:12:01.284 +05:30 [DBG] Connection id "0HNAEBLJ4VSTK" completed keep alive response.
+2025-02-16 13:12:01.286 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5264/ - 404 0 null 56.9076ms
+2025-02-16 13:12:01.295 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5264/, Response status code: 404
+2025-02-16 13:14:13.154 +05:30 [DBG] Connection id "0HNAEBLJ4VSTL" disconnecting.
+2025-02-16 13:14:13.154 +05:30 [DBG] Connection id "0HNAEBLJ4VSTK" disconnecting.
+2025-02-16 13:14:13.160 +05:30 [DBG] Connection id "0HNAEBLJ4VSTL" stopped.
+2025-02-16 13:14:13.161 +05:30 [DBG] Connection id "0HNAEBLJ4VSTK" stopped.
+2025-02-16 13:14:13.167 +05:30 [DBG] Connection id "0HNAEBLJ4VSTK" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-02-16 13:14:13.167 +05:30 [DBG] Connection id "0HNAEBLJ4VSTL" sending FIN because: "The Socket transport's send loop completed gracefully."
+2025-02-16 16:47:50.781 +05:30 [INF] Application is shutting down...
+2025-02-16 16:47:50.786 +05:30 [DBG] Hosting stopping
+2025-02-16 16:47:50.805 +05:30 [DBG] Hosting stopped
